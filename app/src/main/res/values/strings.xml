@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestStudent</string>
+    <string name="defaultTextView">X</string>
+    <string name="text_accept">Принять</string>
+    <string name="text_generate">Генерировать</string>
+    <string name="true_answer">Ура,правильно!</string>
+    <string name="false_answer">ЛОЛ, не правильно =(</string>
+    <string name="numbers">Числа</string>
+    <string name="words">Слова</string>
+    <string name="text_statistica">Статистика</string>
+    <string name="backspace">C</string>
+
+
+</resources>
